@@ -3,7 +3,7 @@
 🧠 **Computer science** student at **CUNY Hunter College** <br/>
 🔭 I’m currently working on **personal website** and soon some **playable mini games** <br/>
 🌱 I’m currently learning language **C++, HTML and CSS** <br/>
-💬 Ask me about **C++** <br/>
+💬 Ask me about **My personal Webpage** <br/>
 
 
 ## 🌐 How to reach out to me:
